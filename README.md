@@ -19,16 +19,7 @@ examines currently available drainage solutions and suggests some suitable metho
 relevant in the age of rapid climate change.
 
 ## Research Aim and Objectives
-Firstly, the development of a new framework to sieve out locations to prioritise for in-land flood prevention - Pluvial
-Flooding Risk Framework which uses GIS data analysis to identify sites that would pose high risks to human lives
-and the economy.
-Secondly, conduct a detailed hydrological analysis to find out the exact location of the problematic areas within
-the highest-risk site. The Kangaroo step solver in Grasshopper is used to simulate existing water drainage patterns
-and to study how building footprint and typography affect the hydrology of the area, some urban strategies with
-the potential to alleviate flooding are also suggested by evaluating different arrangements of building footprint and
-orientation against one another quantitatively.
-Lastly, this thesis examines some of the currently available drainage infrastructures and suggests some suitable
-methods that would continue to be relevant in the age of rapid climate change.
-This thesis report lays the groundwork for the thesis design project next semester. Knowledge gained from this
-research would be translated into a design that aims to protect the highest risks areas in Singapore adequately from
-the impacts of pluvial flooding.
+Firstly, this thesis proposes a new framework to sieve out vulnerable locations to prioritise for in-land flood prevention - Pluvial Flooding Risk Framework - which uses GIS data analysis to identify sites that would pose high risks to human lives and the economy.
+Secondly, this thesis conducts a detailed hydrological analysis to find out the exact location of the problematic areas within the highest-risk site. The Kangaroo step solver in Grasshopper is used to simulate existing water drainage patterns and to study how building footprint and typography affect the hydrology of the area, some urban strategies with the potential to alleviate flooding are also suggested by evaluating different arrangements of building footprint and orientation against one another quantitatively.
+Lastly, this thesis examines some of the currently available drainage infrastructures and suggests some suitable methods that would continue to be relevant in the age of rapid climate change.
+This thesis report lays the groundwork for the thesis design project next semester. Knowledge gained from this research would be translated into a design that aims to protect the highest risks areas in Singapore adequately from the impacts of pluvial flooding.
